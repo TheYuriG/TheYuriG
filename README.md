@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheYuriG.
+- 👀 I’m interested in Javascript and Flutter.
+- 🌱 I’m currently learning all od NodeJS at Udemy.
+- 📫 How to reach me: DM here or email me yuri03042@gmail.com
