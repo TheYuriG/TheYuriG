@@ -4,7 +4,7 @@
 - I’m currently learning all of NodeJS at Udemy.
 - Future plan is to start the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design) at FreeCodeCamp, then circle back at Flutter and React Native and Typescript.
 
-As of June 2022, I'm working full time as an Offline Media Advertising Analyst and study coding at night, but looking forward to make the switch to tech as Software Developer abroad on either frontend (building apps) or backend (building APIs or data processing).
+As of June 2022, I'm working full time as an Offline Media Advertising Analyst (because I have a degree in Marketing and Advertising) and study coding at night (every night, after work) and weekends (when I have the most free time), but looking forward to make the switch to tech as Software Developer abroad on either frontend (building apps) or backend (building APIs or data processing).
 
 Where to find me:
 ✉️ Email: yuri03042@gmail.com
