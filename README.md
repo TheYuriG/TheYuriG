@@ -8,15 +8,15 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- I've built a JS [Discord bot](https://discordapp.com/invite/j55v7pD) that i've maintained alone since March 2019. It now has over 30 features that you can check at #bot_commands_list and test at #bot_usage. It's a very useful bot for Playstation trophy related data and it crawls and processes data from PSNProfiles.com using request and [cheerio](https://www.npmjs.com/package/cheerio) (uses syntax similar to JQuery). Feel free to message me here if you want to be shown around, if are not coming from a trophy hunting background and I'll happily show you the bot features. I also track issues, suggestions and the changelog in that same server, so you can scroll through those while you are at it.
+- I've built and maintained a JS [Discord bot](https://discordapp.com/invite/j55v7pD) since March 2019. It now has over 30 features that you can check at #bot_commands_list and test at #bot_usage. It's a very useful bot for Playstation trophy related data and it crawls and processes data from PSNProfiles.com using request and [cheerio](https://www.npmjs.com/package/cheerio) (uses syntax similar to JQuery). Feel free to message me here if you want to be shown around, if are not coming from a trophy hunting background and I'll happily show you the bot features. I also track #issues, #suggestions and the changelog in that same server, so you can scroll through those while you are at it.
 
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-- With Dart and Flutter, I've created a project to have a mobile version of www.realmeye.com (code repo [here](https://github.com/TheYuriG/rotmg_utility) (used to be private), release repo [here](https://github.com/TheYuriG/RotMG-Utility/releases)). This project went on for as long as I played the game until I got the infamous white star account. I ended up quitting both the game and the project after getting max rank in the game. There used to be a massive trello board for all my ideas regarding features to add, including a whole shading emulator system by decoding their base64 color pallete / skin stores.
-- This project is what got me to update the standard [web crawling](https://github.com/tusharojha/web_scraper/pull/23) library for Dart. I still have this one PR that I'm yet to properly format and [submit again](https://github.com/tusharojha/web_scraper/pull/66), but all in due time.
-- After quitting RotMG for good, I've started a project to [port the Discord bot](https://github.com/TheYuriG/Yura/tags) to Android and Windows, but the [project got bigger](https://trello.com/b/EK0M1sl8/yuras-development-board) (considering I was no longer limited by Discord) but it eventually came to a halt when Flutter 2.0 came out with null safety breaking my packages and my project when I changed computers. I still intend to go back to rebuild that project in the somewhat near future in Flutter 3.0, get a macbook and put the app on every existing platform since I would be covered in every enviroment and Yura app has a big focus on accessibility regardless of what ecossystem you use.
+- With Dart and Flutter, I've created a project to have a mobile version of www.realmeye.com (code repo [here](https://github.com/TheYuriG/rotmg_utility) (used to be private), release repo [here](https://github.com/TheYuriG/RotMG-Utility/releases)). This project went on for as long as I played the game until I got the infamous white star account (max rank with all character classes).
+- This project is what got me to update the standard [web crawling](https://github.com/tusharojha/web_scraper/pull/23) library for Dart, improving its performance by tenfold.
+- After quitting RotMG, I've started a project to [port the Discord bot](https://github.com/TheYuriG/Yura/tags) to Android and Windows. The [project got bigger](https://trello.com/b/EK0M1sl8/yuras-development-board) (considering I was no longer limited by Discord) but it eventually came to a halt when Flutter 2.0 came out with null safety breaking my packages and my project. I still intend to go back to rebuild that project in the somewhat near future in Flutter 3.0 and make the app available on every existing platform since Yura app has a big focus on accessibility regardless of what ecossystem you use.
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,15 +28,10 @@
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- Future plan is to start the [Responsive Web Design Certification](https://www.freecodecamp.org/learn/2022/responsive-web-design) at FreeCodeCamp, then circle back at Flutter (improving on my foundations), React Native (because it's such a hot framework at the moment) and Typescript (to use the strongly typed language that I got used to in Dart in Javascript).
+- I've made a complete React Native application that connects to Firebase (just a MVP, repository below).
 
-Since May 2021, I've been working full time as an Offline Media Advertising Analyst (since I have a Bachelor Degree in Marketing and Advertising) and since May 2022 study coding at every possible free minute (every week night after work, plus all day on weekends. Check the graph above or the activity graph below), but looking forward to make the switch to tech as Software Developer abroad on either frontend (building web/mobile apps) or backend (building APIs or data processing). I'm obsessed about learning more every day, because I love to see the world opening up as I learn new ways to do old and new things.
+Since May 2022 I've been studying at every possible free minute of my time (Check the activity graph below) and I've been looking forward to make make strides as Software Developer abroad on either frontend (building web/mobile apps), backend or fullstack (ideally, since I like to understand the whole). I'm obsessed about learning more every day, because I love to see the possibilities expand as I learn new ways to do things.
 
 Books I am reading/have read:
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/B08X8H5G2J/) by Robert C. Martin.
