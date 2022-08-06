@@ -45,3 +45,4 @@ Feel free to suggest more important books, but do beware that I spend most of my
 Where to find me:
 - ✉️ Email: yuri03042@gmail.com
 - 💼 LinkedIn: [Yuri Lisboa](https://www.linkedin.com/in/theyurig/)
+- 🌎 Website: [TheYuriG](https://www.theyurig.com/) (work in progress)
