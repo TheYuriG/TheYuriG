@@ -15,7 +15,7 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- I've made a complete React Native application that connects to Firebase (just a MVP, repository below).
+- I've made a complete React Native [Todo application](https://github.com/TheYuriG/fullstackTodoApp) that connects to Firebase.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -24,7 +24,7 @@
 ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 - I’m currently learning all of [NodeJS backend](https://www.udemy.com/course/nodejs-the-complete-guide/) at Udemy.
 
-Since May 2022 I've been studying at every possible free minute of my time (Check the activity graph below) and I've been looking forward to make make strides as Software Developer abroad on either frontend (building web/mobile apps), backend or fullstack (ideally, since I like to understand the whole). I'm obsessed about learning more every day, because I love to see the possibilities expand as I learn new ways to do things.
+Since May 2022 I've been coding daily (Check the activity graph below) and I've been looking forward to make make strides as Software Developer abroad on either frontend (building web/mobile apps), backend or fullstack (ideally, since I like to understand the whole). I'm obsessed about learning more every day, because I love to see the possibilities unfold as I learn new ways to create things.
 
 Books I am reading/have read:
 - [Clean Architecture](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/B08X8H5G2J/) by Robert C. Martin.
