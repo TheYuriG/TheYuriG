@@ -7,9 +7,8 @@ I write code **every** single day, regardless of being weekend, holiday or my bi
 
 I'm mainly a Javascript/Node.JS developer, but I can write more-than-decent Dart code if I need to. Life finds a way.
 
-Currently the only backend engineer responsible for [Trophy Place](https://trophy.place), but I eventually that staff should grow.
+Currently the only backend engineer responsible for [Trophy Place](https://trophy.place), but I hope that eventually the staff should grow.
 
 Where to find me:
 - ✉️ Email: yuri03042@gmail.com
 - 💼 LinkedIn: [Yuri Lisboa](https://www.linkedin.com/in/theyurig/)
-- 🌎 Website: [TheYuriG](https://www.theyurig.com/) (work in progress)
